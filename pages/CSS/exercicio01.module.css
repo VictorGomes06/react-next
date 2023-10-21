@@ -1,0 +1,28 @@
+.main {
+    display: flex;
+    flex-direction: column;
+}
+
+#titulo {
+    display: flex;
+    align-items: center;
+}
+
+.subtitulo {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.img {
+    display: flex;
+    width: 300px;
+    height: 250px;
+    justify-content: space-around;
+}
+
+.paragrafos {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
